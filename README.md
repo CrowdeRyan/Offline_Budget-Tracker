@@ -2,7 +2,7 @@
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
-## [App Deloyed on Heroku](https://-rr.herokuapp.com/)
+## [App Deloyed on Heroku](https://progressive-budget-rr.herokuapp.com)
 
 ## Description:
 
