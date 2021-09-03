@@ -16,3 +16,7 @@ request.onsuccess = function (event) {
     checkDatabase();
   }
 };
+
+request.onerror = function (event) {
+  console.log("Error encountered " + event.target.errorCode);
+};
