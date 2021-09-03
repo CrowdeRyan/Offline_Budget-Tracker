@@ -31,3 +31,6 @@ function saveRecord(record) {
   // add record to your store with add method.
   store.add(record);
 }
+
+// this listens for the app coming back online
+window.addEventListener("online", checkDatabase);
