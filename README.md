@@ -2,24 +2,35 @@
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
-## [App Deloyed on Heroku](https://progressive-budget-rr.herokuapp.com)
+## [App Deployed on Heroku](https://progressive-budget-rr.herokuapp.com)
 
 ## Description:
 
-![Start Page](./images/.png)
+![Start Page](./images/main.png)
 
 # Installation:
 
-    Open heroku link
+    Open heroku link on mobile device and click "Add Budget to Home screen" to have offline budget tracking app.
 
 # Usage:
 
-![](./images/.png)
+## Service Worker
 
-![](./images/.png)  
-![](./images/.png)
+![Service Worker](./images/service-worker.png)
 
-![](./images/.png)
+## Manifest Detail
+
+![Manifest](./images/manifest.png)
+
+## Downloadable:
+
+![Download](./images/download.png)
+
+## Home Screen
+
+![App](./images/app.png)  
+![Settings](./images/app-setting.png)
+![Settings Open](./images/app-settings.png)
 
 # Questions: https://github.com/Crowderyan
 
